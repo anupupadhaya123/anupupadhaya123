@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anup Upadhaya
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on any project of mobile application
+- 👀 I’m former developer as Mobile Application Development but currently switched to Data Science
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on any project of data analysis
 - 📫 How to reach me ,you can contact me anywhere
 
 <!---
